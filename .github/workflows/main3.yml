@@ -1,0 +1,3 @@
+steps:
+- name: Setup Debug Sehdbb
+  uses: Mizoresuki/debugger-action@master
